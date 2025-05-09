@@ -80,3 +80,5 @@ Outline the next steps to be taken based on your results.
 ```md
 ![image](Bins/Images/APIdiagram.png)
 ```
+
+- the report structure is based on [this](https://welgeen.nl/doc/)
