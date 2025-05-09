@@ -73,9 +73,9 @@ Outline the next steps to be taken based on your results.
 
 ## 7. Tips
 
-- Mind the headers (pandoc handles up to H4 or something) so take a look at the formatting of my [example file](example_file.md)
+- Mind the headers (pandoc handles up to H4 or something) so take a look at the formatting of my [example file](example_file.md), you can see the output file [here](example_file.pdf)
 
-- when you want to put an image in use the HTML syntax
+- when you want to put an image in use this syntax
 
 ```md
 ![image](Bins/Images/APIdiagram.png)
